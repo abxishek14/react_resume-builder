@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px; /* Increased gap for better spacing on mobile */
+}
+
+label {
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+input {
+  width: 100%; /* Make input take full width */
+  border: 1px solid #cccccc;
+  outline: none;
+  padding: 10px 12px;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+
+input:hover {
+  border: 1px solid #adadad;
+}
+
+input:focus {
+  border: 1px solid #239ce2;
+}
+
+@media (max-width: 768px) {
+  .container {
+    gap: 8px; /* Adjusted gap for better spacing on smaller screens */
+  }
+
+  label {
+    font-size: 0.9rem; /* Adjusted font size for smaller screens */
+  }
+
+  input {
+    font-size: 0.9rem; /* Adjusted font size for smaller screens */
+  }
+}
