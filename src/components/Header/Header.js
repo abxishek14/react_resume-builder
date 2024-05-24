@@ -47,14 +47,14 @@ function Header() {
             <img src={linkedinSvg} alt="LinkedIn" />
           </a>
           <a
-            href="https://github.com/ayushanand2003/"
+            href="https://github.com/abxishek14/"
             target="_blank"
             rel="noreferrer"
           >
             <img src={githubSvg} alt="GitHub" />
           </a>
           <a
-            href="https://www.instagram.com/ayushshsh_/"
+            href="https://www.instagram.com/abxishek14?utm_source=qr&igsh=MXRmdzhkeml2ZnZpMA== "
             target="_blank"
             rel="noreferrer"
           >
