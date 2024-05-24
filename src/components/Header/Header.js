@@ -33,14 +33,14 @@ function Header() {
         Developed By <span>Abhishek</span>
         <div className={styles.socialLinks}>
           <a
-            href="https://ayushanand2003.github.io/Portfolio/"
+            href="#"
             target="_blank"
             rel="noreferrer"
           >
             <img src={websiteSvg} alt="Website" />
           </a>
           <a
-            href="https://www.linkedin.com/in/ayushanand2003/"
+            href="https://www.linkedin.com/in/abhishek-singh-29831a286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "
             target="_blank"
             rel="noreferrer"
           >
